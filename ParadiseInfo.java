@@ -9,9 +9,9 @@ public class ParadiseInfo {
 	}
 	
 	public static void displayInfo(){
-		
-		System.out.println("Paradise Day SPA wants to pamper you.")
-				System.out.println("We'll make you look good.")
+		System.out.println();
+		System.out.println("Paradise Day SPA wants to pamper you.");
+		System.out.println("We'll make you look good.");
 	}
 	
 }
